@@ -9,3 +9,5 @@ try for creating repository secret
 updated variables to test if error resolve
 
 updated secret to client id
+
+change name to client id, secrets to secrets
