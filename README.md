@@ -7,3 +7,5 @@ try for deleting all of environment secrets to see if it's their issue
 try for creating repository secret
 
 updated variables to test if error resolve
+
+updated secret to client id
