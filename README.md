@@ -33,7 +33,10 @@ change name to client id, secrets to secrets
 
 created dev branch and task 1 branch, testing CI
 
-
 cicd testing task_2
-=======
 
+---------CI working now----------
+
+---------Provision testing---------
+
+added env var env: ${{env.TEAMSFX_ENV_NAME}}
