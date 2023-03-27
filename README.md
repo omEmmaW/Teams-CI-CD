@@ -33,4 +33,7 @@ change name to client id, secrets to secrets
 
 created dev branch and task 1 branch, testing CI
 
-wrong merge, should merge into dev (what's specified in ci)
+
+cicd testing task_2
+=======
+
