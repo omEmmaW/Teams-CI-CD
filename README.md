@@ -33,4 +33,10 @@ change name to client id, secrets to secrets
 
 created dev branch and task 1 branch, testing CI
 
+---------CI working now----------
+
 cicd testing task_2
+
+---------Provision testing---------
+
+used az login for service principal
